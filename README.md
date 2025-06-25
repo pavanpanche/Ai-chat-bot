@@ -2,6 +2,25 @@
 
 A Flutter-powered AI chatbot app using Google's Gemini API, Firebase Authentication, and Firestore.
 
+---
+
+## 🧰 Tools & Requirements
+
+Before running this project, make sure you have the following:
+
+### 🔧 Requirements
+
+- ✅ [Flutter SDK](https://docs.flutter.dev/get-started/install) (Latest stable)
+- ✅ [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)
+- ✅ Dart (comes with Flutter)
+- ✅ A Firebase project with:
+  - Firebase Authentication (Email/Password)
+  - Cloud Firestore
+  - `google-services.json` (for Android)
+- ✅ Access to [Google Gemini API](https://developers.generativeai.google)
+
+---
+
 ## 🚀 Features
 
 - 🔐 Firebase Email/Password Authentication
